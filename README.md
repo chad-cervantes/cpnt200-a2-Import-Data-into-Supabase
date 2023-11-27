@@ -12,6 +12,9 @@
 ![patch_gender_of_id_101](images/patch_gender_of_id_101.png)
 ![patch_gender_of_id_101_rendered](images/patch_gender_of_id_101_rendered.png)
 
-### Query 3
+### Query 3 -  patch_last_name_of_id_100
+
+![patch_last_name_of_id_100](images/patch_last_name_of_id_100.png)
+![patch_last_name_of_id_100_rendered](images/patch_last_name_of_id_100_rendered.png)
 
 ### Query 4
