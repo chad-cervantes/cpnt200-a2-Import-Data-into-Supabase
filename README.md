@@ -17,4 +17,6 @@
 ![patch_last_name_of_id_100](images/patch_last_name_of_id_100.png)
 ![patch_last_name_of_id_100_rendered](images/patch_last_name_of_id_100_rendered.png)
 
-### Query 4
+### Query 4 - patch_salary_of_id_100
+
+
