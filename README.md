@@ -6,6 +6,10 @@
 
 - [Adding images to README.md in GitHub](https://www.educative.io/answers/adding-images-to-readmemd-in-github)
 
+### supabase_the_office_table (changes included)
+
+![supabase_the_office_table](images/supabase_the_office_table.png)
+
 ### Query 1 - patch_first_name_of_id_101
 
 - [API Endpoint for id. 101](https://tldjgyokillneanjnakf.supabase.co/rest/v1/The_Office_table?id=eq.101)
