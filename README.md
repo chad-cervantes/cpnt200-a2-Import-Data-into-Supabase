@@ -19,4 +19,5 @@
 
 ### Query 4 - patch_salary_of_id_100
 
-
+![patch_salary_of_id](images/patch_salary_of_id_100.png)
+![patch_salary_of_id_100](images/patch_salary_of_id_100_rendered.png)
