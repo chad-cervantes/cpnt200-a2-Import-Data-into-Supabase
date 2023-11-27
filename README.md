@@ -10,6 +10,10 @@
 
 ![supabase_the_office_table](images/supabase_the_office_table.png)
 
+### rsl_read_for_the_table_office
+
+![rsl_read_for_the_table_office](images/rsl_read_for_the_table_office.png)
+
 ### Query 1 - patch_first_name_of_id_101
 
 - [API Endpoint for id. 101](https://tldjgyokillneanjnakf.supabase.co/rest/v1/The_Office_table?id=eq.101)
