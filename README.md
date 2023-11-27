@@ -2,6 +2,10 @@
 
 ## Author: Chad Cervantes
 
+### Attributions 
+
+- [Adding images to README.md in GitHub](https://www.educative.io/answers/adding-images-to-readmemd-in-github)
+
 ### Query 1 - patch_first_name_of_id_101
 
 ![patch_first_name_of_id_101](images/patch_first_name_of_id_101.png)
